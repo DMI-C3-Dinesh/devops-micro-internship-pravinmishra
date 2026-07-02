@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe AI won't replace most professionals—it will replace professionals who refuse to learn how to use AI effectively.
+I think most people overestimate the value of certificates and underestimate the value of actually building projects and solving real problems.
 
 ---
 
@@ -55,11 +56,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency beats bursts of motivation.
+Through setting daily goals and tracking my progress, I've found that making steady progress every day produces better long-term results than relying on occasional periods of high motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+Learning by doing is far more effective than learning by reading alone.
+Whenever I've built projects or solved real problems, I've retained concepts much better than when I only watched tutorials or read documentation
 
 ---
 
@@ -135,7 +138,15 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Just a few years ago, Dinesh Mathivanan was focused on building his technical foundation and developing the discipline needed to succeed in the fast-changing world of technology. Today, he is recognized as a skilled DevOps and Cloud Engineer who has helped organizations deliver software faster, more securely, and more reliably.
+
+Rather than chasing every new technology, Dinesh focused on mastering the fundamentals of Linux, networking, cloud computing, automation, containers, and CI/CD. He built real-world projects, continuously refined his skills, and embraced a mindset of lifelong learning. His practical approach quickly earned the trust of colleagues and leadership alike.
+
+Known for his calm, analytical approach to problem-solving, Dinesh became the person teammates relied on during complex deployments and production incidents. He believed that every challenge was an opportunity to learn, automate repetitive work, and improve systems for the future.
+
+Beyond his technical expertise, Dinesh also developed a reputation for mentoring junior engineers and sharing knowledge with the broader technology community. Through technical articles, project demonstrations, and collaborative learning, he helped others build confidence in DevOps practices.
+
+His journey stands as a reminder that long-term success rarely comes from shortcuts. It comes from consistency, curiosity, and the willingness to improve a little every day. In just a few years, those habits transformed Dinesh from an aspiring engineer into a respected technology professional making a meaningful impact in his field
 
 ### Public Link
 
@@ -173,9 +184,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes. There have been times when I took shortcuts, such as procrastinating on a task and then rushing to complete it close to the deadline instead of following the plan I had set for myself. While it wasn't dishonest, it wasn't my best standard of work either.
 
----
+The experience taught me that cutting corners often creates more stress than it saves. I found myself spending extra time fixing mistakes and worrying about the quality of the outcome. Since then, I've focused on planning better, starting work earlier, and being more disciplined. I've learned that taking the time to do something properly usually leads to better results and greater peace of mind.
+
+
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -199,16 +212,7 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits
 
 ---
 
@@ -237,16 +241,10 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+The new skills and technologies I learn.
+The number of hands-on projects I complete.
+The quality of my work and the feedback I receive.
+Progress toward my long-term career goals, such as certifications and professional development.
 
 ---
 
@@ -272,7 +270,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes i Did it
 
 ---
 
@@ -290,7 +288,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Thursday, Friday - Focus on Learnings
+5 days a week - Hit the gym
+
 
 ---
 
